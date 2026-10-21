@@ -1,0 +1,6 @@
+{
+  "name": "Acuity Capital & B2B Sales Intelligence",
+  "description": "The world's first autonomous commercial real estate bridge engine and B2B growth platform. Discover off-market properties, unmask beneficial owners, compare historical deed rates, and bridge deals with institutional capital to capture dual commissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
